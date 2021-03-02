@@ -1,0 +1,29 @@
+{
+  "group_id": "1234",
+  "source_app": "nmbrs",
+  "source_app_internal_id": 975582,
+  "historical_days_off": [
+    {
+      "date": "2020-08-04",
+      "data": {
+        "duration_minutes": 0,
+        "day_off_name": "Ziekte",
+        "internal_code": 101312,
+        "type_work": 0,
+        "type_company_holiday": 0,
+        "type_holiday": 1
+      }
+    },
+    {
+      "date": "2020-08-25",
+      "data": {
+        "duration_minutes": 272041,
+        "day_off_name": "Ziekte",
+        "internal_code": 101311,
+        "type_work": 0,
+        "type_company_holiday": 0,
+        "type_holiday": 1
+      }
+    }
+  ]
+}
